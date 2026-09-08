@@ -35,3 +35,15 @@
 ## 授权
 
 允许按 [LICENSE.md](./LICENSE.md) 进行非商业学习、研究和使用。任何商业用途，包括收费建站、咨询、代运营、培训、转卖和商业产品集成，均须事先取得大卫独立站营销的明确书面授权。
+
+
+## 让 Codex 自动下载安装
+
+复制下面这段提示词发送给 Codex：
+
+```text
+请从以下 GitHub 地址下载这个 Skill，并将完整文件夹安装到我的 Codex 个人 Skills 目录。请保留 SKILL.md、README.md、LICENSE.md、agents 和 references 等全部文件及原有目录结构。安装后检查文件是否完整，并告诉我如何调用它。
+
+Skill 地址：
+https://github.com/davidqd/independent-site-workflow-skills/tree/main/skills/build-b2b-wordpress-site
+```
