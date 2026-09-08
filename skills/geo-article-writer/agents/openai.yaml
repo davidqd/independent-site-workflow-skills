@@ -1,0 +1,4 @@
+interface:
+  display_name: "GEO 内容自动化"
+  short_description: "产品库AIDA选题、Excel队列与WordPress草稿"
+  default_prompt: "使用 $geo-article-writer 读取我的产品库Excel，为每个产品关键词生成A/I/D/A四阶段主题并建立文章队列。"
