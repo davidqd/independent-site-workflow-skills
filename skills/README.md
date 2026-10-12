@@ -10,9 +10,11 @@
 
 ## 上传方法
 
-1. 在此目录选择 Add file → Upload files。
-2. 将完整的 Skill 文件夹拖入上传区域，检查路径后提交。
-3. 每个 Skill 文件夹包含自己的 SKILL.md，以及所需的 scripts、references、assets 等配套文件。
+1. 先阅读仓库的 [新 Skill 上传规范](../SKILL-UPLOAD-CHECKLIST.md)。
+2. 在此目录选择 Add file → Upload files。
+3. 将完整的 Skill 文件夹拖入上传区域，检查路径后提交。
+4. 每个 Skill 文件夹包含自己的 `SKILL.md`、`README.md`、`LICENSE.md`，以及实际需要的 `agents/`、`scripts/`、`references/`、`assets/` 等配套文件。
+5. 在同一个提交中更新根目录 `README.md`、本文件和 `CODEX-INSTALL.md`。
 
 文件夹名称建议使用英文小写和短横线，例如 website-audit。上传后的路径示例：skills/website-audit/SKILL.md。
 
