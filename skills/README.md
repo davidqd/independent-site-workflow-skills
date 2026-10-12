@@ -1,6 +1,11 @@
 # Skills 子文件夹
 
-每个 Skill 放在本目录下的独立文件夹中，目前待上传。
+每个 Skill 放在本目录下的独立文件夹中。
+
+## 当前 Skill
+
+- [B2B WordPress 建站](./build-b2b-wordpress-site/)
+- [B2B 白帽外链开发](./b2b-backlink-builder/)
 
 ## 上传方法
 

@@ -28,6 +28,7 @@ independent-site-workflow-skills/
 ## 已上传 Skill
 
 - [B2B WordPress 建站](./skills/build-b2b-wordpress-site/)：规划、搭建与验收外贸 B2B WordPress 独立站。
+- [B2B 白帽外链开发](./skills/b2b-backlink-builder/)：发现、验证、评分并跟进外贸 B2B 白帽外链机会。
 
 ## 上传与使用
 

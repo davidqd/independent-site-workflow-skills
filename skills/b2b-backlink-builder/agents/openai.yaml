@@ -1,0 +1,5 @@
+interface:
+  display_name: "B2B 白帽外链开发"
+  short_description: "自动发现、验证、评分并跟进外贸 B2B 白帽外链机会"
+  default_prompt: "使用 $b2b-backlink-builder 为我的产品和目标市场建立可审核的白帽外链开发清单。"
+
