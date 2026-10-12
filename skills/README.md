@@ -5,6 +5,7 @@
 ## 当前 Skill
 
 - [B2B WordPress 建站](./build-b2b-wordpress-site/)
+- [GEO Article Writer](./geo-article-writer/)
 - [B2B 白帽外链开发](./b2b-backlink-builder/)
 
 ## 上传方法
@@ -17,4 +18,4 @@
 
 ## 使用方法
 
-在仓库首页点击 Code → Download ZIP，解压后取出需要的完整 Skill 文件夹，按目标工具的安装方式使用。依赖和配置要求以各 Skill 的说明为准。
+需要安装到 Codex 时，请参阅仓库的 [Codex Skills 安装说明](../CODEX-INSTALL.md)。也可以在仓库首页点击 Code → Download ZIP，解压后取出需要的完整 Skill 文件夹，按目标工具的安装方式使用。依赖和配置要求以各 Skill 的说明为准。

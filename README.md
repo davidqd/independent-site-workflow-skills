@@ -14,25 +14,25 @@
 
 ```text
 independent-site-workflow-skills/
+├── CODEX-INSTALL.md
 ├── LICENSE.md
 ├── README.md
 └── skills/
     ├── README.md
-    └── build-b2b-wordpress-site/
-        ├── LICENSE.md
+    └── <skill-name>/
         ├── SKILL.md
-        ├── agents/
-        └── references/
+        └── ...
 ```
 
 ## 已上传 Skill
 
 - [B2B WordPress 建站](./skills/build-b2b-wordpress-site/)：规划、搭建与验收外贸 B2B WordPress 独立站。
+- [GEO Article Writer](./skills/geo-article-writer/)：SEO/GEO 内容规划、写作与产品库文章队列。
 - [B2B 白帽外链开发](./skills/b2b-backlink-builder/)：发现、验证、评分并跟进外贸 B2B 白帽外链机会。
 
 ## 上传与使用
 
-进入 [skills 子文件夹](./skills/) 查看上传指引。每个 Skill 保留自己的完整文件夹，并随文件夹附带总仓库 LICENSE.md 的副本，确保单独下载或分发时仍能看到授权条件。后续上传的 Skill 同样遵守总仓库授权规则。
+进入 [skills 子文件夹](./skills/) 查看上传指引；需要安装到 Codex 时，请参阅 [Codex Skills 安装说明](./CODEX-INSTALL.md)。每个 Skill 保留自己的完整文件夹，并随文件夹附带总仓库 LICENSE.md 的副本，确保单独下载或分发时仍能看到授权条件。后续上传的 Skill 同样遵守总仓库授权规则。
 
 使用者可以点击 Code → Download ZIP 下载总仓库，解压后取出需要的完整 Skill 文件夹，按目标工具的安装方式及本许可使用。请保留配套脚本、参考资料和素材，并按照各 Skill 说明配置依赖。
 
