@@ -1,0 +1,4 @@
+interface:
+  display_name: "LinkedIn 内容分发"
+  short_description: "配置账号，准备、审批、发布并验证 LinkedIn 内容"
+  default_prompt: "使用 $linkedin-content-distributor 帮我首次配置账号，或将已发布文章安全分享到 LinkedIn。"

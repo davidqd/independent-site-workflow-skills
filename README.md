@@ -29,6 +29,7 @@ independent-site-workflow-skills/
 - [B2B WordPress 建站](./skills/build-b2b-wordpress-site/)：规划、搭建与验收外贸 B2B WordPress 独立站。
 - [GEO Article Writer](./skills/geo-article-writer/)：SEO/GEO 内容规划、写作与产品库文章队列。
 - [B2B 白帽外链开发](./skills/b2b-backlink-builder/)：发现、验证、评分并跟进外贸 B2B 白帽外链机会。
+- [LinkedIn 内容分发](./skills/linkedin-content-distributor/)：配置个人账号，将网站文章改写、审批、发布并验证为 LinkedIn 帖子。
 
 ## 上传与使用
 

@@ -48,6 +48,21 @@ https://github.com/davidqd/independent-site-workflow-skills/tree/main/skills/b2b
 使用 $b2b-backlink-builder，为 qpdryer.com 寻找免费的工业干燥设备相关外链机会。
 ```
 
+
+### LinkedIn 内容分发
+
+```text
+使用 $skill-installer，从下面的 GitHub 地址安装 Skill。请保留完整目录结构，安装后检查文件是否完整，并告诉我如何调用。
+
+https://github.com/davidqd/independent-site-workflow-skills/tree/main/skills/linkedin-content-distributor
+```
+
+安装后调用示例：
+
+```text
+使用 $linkedin-content-distributor，把这篇已发布文章改写成 LinkedIn 帖子。先给我预览，得到确认后再发布。
+```
+
 ## 方法二：手动安装
 
 1. 在仓库首页点击 **Code → Download ZIP**。

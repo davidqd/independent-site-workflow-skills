@@ -7,6 +7,7 @@
 - [B2B WordPress 建站](./build-b2b-wordpress-site/)
 - [GEO Article Writer](./geo-article-writer/)
 - [B2B 白帽外链开发](./b2b-backlink-builder/)
+- [LinkedIn 内容分发](./linkedin-content-distributor/)
 
 ## 上传方法
 
